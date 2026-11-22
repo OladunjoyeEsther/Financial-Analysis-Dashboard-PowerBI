@@ -52,8 +52,6 @@ Despite strong revenue growth between 2024 and 2025, profit margins were compres
 
 ## 📷 Dashboard Screenshots
 
-## 📷 Dashboard Screenshots
-
 ### 1. Executive Overview
 ![Executive Overview](01-Executive-overview.png.jpg)
 
