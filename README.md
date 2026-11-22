@@ -52,7 +52,22 @@ Despite strong revenue growth between 2024 and 2025, profit margins were compres
 
 ## 📷 Dashboard Screenshots
 
-*(Your existing images will appear here automatically)*
+## 📷 Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](01-Executive-overview.png.jpg)
+
+### 2. Branch Performance
+![Branch Performance](02-branch-performance.png.jpg)
+
+### 3. Expense Breakdown
+![Expense Breakdown](03-expense-breakdown.png.jpg)
+
+### 4. Profit & Loss Statement
+![Profit and Loss](04-profit-and-loss.png.jpg)
+
+### 5. Key Findings & Recommendations
+![Key Findings and Recommendations](05-key-findings-recommendations.png.jpg)
 
 ---
 
